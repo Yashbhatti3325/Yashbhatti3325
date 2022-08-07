@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center" style=background-color: #80fffb>Hi 👋, I'm Yash Bhatti</h1>
 <h3 align="center">Hungary for Knowledge and Information</h3>
+<img align="right" alt="coding" src"https://imgs.search.brave.com/EztQaYZB4yAYoptn4sPPchWNSswmZr6cG8l92BijIfY/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9iZWF1/dGlmdWxwaXhlbHMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE3LzAzL3RyMjQw/MzIwMTctbGFkZGVy/LTYuZ2lm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbhatti3325&label=Profile%20views&color=0e75b6&style=flat" alt="yashbhatti3325" /> </p>
 
