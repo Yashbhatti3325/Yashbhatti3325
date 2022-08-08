@@ -1,4 +1,4 @@
-<h1 align="center" style=background-color: #80fffb>Hi 👋, I'm Yash Bhatti</h1>
+<h1 align="center" style=background-color:#80fffb>Hi 👋, I'm Yash Bhatti</h1>
 <h3 align="center">Hungary for Knowledge and Information</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbhatti3325&label=Profile%20views&color=0e75b6&style=flat" alt="yashbhatti3325" /> </p>
 
@@ -17,6 +17,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
+<p align="right" id="gif">
+    <img align="right"alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+</p>
 <p align="left">
 <a href="https://dev.to/yashbhatti3325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/yashbhatti3325" height="30" width="40" /></a>
 <a href="https://twitter.com/jayash3325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayash3325" height="30" width="40" /></a>
