@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://crazycomputer6892.hashnode.dev/](https://crazycomputer6892.hashnode.dev/)
 
-- 💬 Ask me about **JAVA , CSS , PYTHON , HTML , PHP , C++ , ETC..**
+- 💬 Ask me about **JAVA , CSS ,HTML, C++ , .NET , MySQL **
 
 - 📫 How to reach me **jayash3325@gmail.com**
 
