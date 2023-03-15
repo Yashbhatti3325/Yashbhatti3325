@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/jayash3325" target="blank"><img src="https://img.shields.io/twitter/follow/jayash3325?logo=twitter&style=for-the-badge" alt="jayash3325" /></a> </p>
 
-- 📝 I regularly write articles on [https://crazycomputer6892.hashnode.dev/](https://crazycomputer6892.hashnode.dev/)
+- 📝 I regularly trying to write articles on [https://hackerbug6892.hashnode.dev/](https://crazycomputer6892.hashnode.dev/)
 
 - 💬 Ask me about **JAVA , CSS ,HTML, C++ , .NET , MySQL **
 
