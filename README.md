@@ -1,4 +1,5 @@
 <body style="background-color: #ffffff93;color: white;">
+    <center><img src="Hacker Bug.gif" width="1050" height="300" ></center>
 <h1 align="center" style="background-color: #5acde7; border-radius: 5px; color: rgba(0, 0, 0, 0.775); font-size: xx-large ;">Hey there👋, My name is Yash Bhatti </h1>
 <h3 align="center">Hungary for Knowledge and Information</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbhatti3325&label=Profile%20views&color=0e75b6&style=flat" alt="yashbhatti3325" /> </p>
