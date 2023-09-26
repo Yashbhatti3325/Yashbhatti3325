@@ -1,9 +1,11 @@
-<h1 align="center" style=background-color:#80fffb>Hi 👋, I'm Yash Bhatti</h1>
+<body style="background-color: #ffffff93;color: white;">
+<h1 align="center" style="background-color: #5acde7; border-radius: 5px; color: rgba(0, 0, 0, 0.775); font-size: xx-large ;">Hey there👋, My name is Yash Bhatti </h1>
 <h3 align="center">Hungary for Knowledge and Information</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbhatti3325&label=Profile%20views&color=0e75b6&style=flat" alt="yashbhatti3325" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jayash3325" target="blank"><img src="https://img.shields.io/twitter/follow/jayash3325?logo=twitter&style=for-the-badge" alt="jayash3325" /></a> </p>
 
+<pre style="background-color: #c093d0; border-radius: 5px; color: aliceblue; font-size: larger ;" >
 - 💬 Ask me about **JAVA , CSS ,HTML, C++ , .NET , MySQL **
 
 - 📫 How to reach me **jayash3325@gmail.com**
@@ -11,18 +13,21 @@
 - ⚡ Fun fact **I think , I am the most ignoring guy in my group**
 
 ### Blogs posts
+</pre>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="right" id="gif">
-    <img align="right"alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-</p>
+
 <p align="left">
-<a href="https://dev.to/yashbhatti3325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/yashbhatti3325" height="30" width="40" /></a>
-<a href="https://twitter.com/jayash3325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayash3325" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mr_whitedevil_33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr_whitedevil_33/" height="30" width="40" /></a>
-<a href="https://crazycomputer6892.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="crazycomputer6892" height="30" width="40" /></a>
+    <a href="https://dev.to/yashbhatti3325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/yashbhatti3325" height="30" width="40" /></a>
+    <a href="https://twitter.com/jayash3325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayash3325" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/mr_whitedevil_33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr_whitedevil_33/" height="30" width="40" /></a>
+    <a href="https://yashbhatti33.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="crazycomputer6892" height="30" width="40" /></a>
+</p>
+
+<p align="right" id="gif">
+    <img align="center"alt="Coding" width="100" src="https://gifdb.com/images/high/thank-goodness-i-took-that-coding-course-gkl7f76y3vwkuyh9.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashbhatti3325&show_icons=true&locale=en" alt="yashbhatti3325" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashbhatti3325&" alt="yashbhatti3325" /></p>
+</body>
