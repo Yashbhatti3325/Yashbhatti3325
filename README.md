@@ -1,5 +1,6 @@
+![the Linkdin banner](https://media.licdn.com/dms/image/v2/D5616AQGWFmcrdiccAg/profile-displaybackgroundimage-shrink_350_1400/B56ZgMxzdFG4Ac-/0/1752561040765?e=1758153600&v=beta&t=9R7ktzY28akFy-shb5PfUvu3hIqUHLqKsuUYtx6m4yQ)
 <body style="background-color: #ffffff93;color: white;">
-    <center><img src="Hacker Bug.gif" width="1050" height="300" ></center>
+   
 <h1 align="center" style="background-color: #5acde7; border-radius: 5px; color: rgba(0, 0, 0, 0.775); font-size: xx-large ;">Hey there👋, My name is Yash Bhatti </h1>
 <h3 align="center">Information is money if you can make it !!!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbhatti3325&label=Profile%20views&color=0e75b6&style=flat" alt="yashbhatti3325" /> </p>
