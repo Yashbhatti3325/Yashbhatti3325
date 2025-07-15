@@ -1,43 +1,145 @@
-![the Linkdin banner](https://media.licdn.com/dms/image/v2/D5616AQGWFmcrdiccAg/profile-displaybackgroundimage-shrink_350_1400/B56ZgMxzdFG4Ac-/0/1752561040765?e=1758153600&v=beta&t=9R7ktzY28akFy-shb5PfUvu3hIqUHLqKsuUYtx6m4yQ)
-<body style="background-color: #ffffff93;color: white;">
-   
-<h1 align="center" style="background-color: #5acde7; border-radius: 5px; color: rgba(0, 0, 0, 0.775); font-size: xx-large ;">Hey there👋, My name is Yash Bhatti </h1>
-<h3 align="center">Information is money if you can make it !!!!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbhatti3325&label=Profile%20views&color=0e75b6&style=flat" alt="yashbhatti3325" /> </p>
+<!-- 🖼 LinkedIn Banner -->
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGWFmcrdiccAg/profile-displaybackgroundimage-shrink_350_1400/B56ZgMxzdFG4Ac-/0/1752561040765?e=1758153600&v=beta&t=9R7ktzY28akFy-shb5PfUvu3hIqUHLqKsuUYtx6m4yQ" alt="LinkedIn Banner" width="100%" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/jayash3325" target="blank"><img src="https://img.shields.io/twitter/follow/jayash3325?logo=twitter&style=for-the-badge" alt="jayash3325" /></a> </p>
+<!-- 🎯 Stylish Introduction Section -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=5ACDE7&width=435&lines=Hey+There+👋,+I'm+Yash+Bhatti!;Information+is+Money+if+You+Can+Make+It!!!" alt="Typing SVG" />
+</h1>
 
-<pre style="background-color: #c093d0; border-radius: 5px; color: aliceblue; font-size: larger ;" >
-- 💬 Ask me about **JAVA , CSS ,HTML, C++ , .NET , MySQL **
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashbhatti3325&label=Profile%20views&color=5acde7&style=for-the-badge" alt="yashbhatti3325" />
+  <a href="https://twitter.com/jayash3325" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/jayash3325?logo=twitter&style=for-the-badge" alt="jayash3325" />
+  </a>
+</p>
 
-- 📫 How to reach me **jayash3325@gmail.com**
+---
 
-- ⚡ Fun fact **I think , I am the most ignoring guy in my group**
+<!-- 🧑‍💻 About Me Section -->
+<h2 align="center">✨ About Me</h2>
 
-### Blogs posts
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Coding + Music vibe" />
+</p>
+
+<pre align="center" style="background-color: #4c2d78; border-radius: 10px; padding: 22px; color: #fff; font-size: 1rem; font-family: monospace;">
+💬 Ask me about:
+ 🔌 Networking & Internet Fundamentals
+ 🌐 Web Development — HTML, CSS, JS, .NET, MySQL
+ 📚 DSA logic and coding thought process
+ 🎭 How to inject creativity into code
+
+🚀 Currently Learning:
+ 🧠 DSA (Data Structures & Algorithms)
+ 🛡 Cybersecurity Foundations
+ 🌐 Real-World Networking Systems
+
+💡 What Drives Me:
+ That inner pressure to become more.
+ Creating solutions with a spark of soul.
+ Merging code with purpose & expression.
+
+🎵 Not Just Code:
+ I don’t just debug functions — I fine-tune emotions.
+ An independent musician trying to turn silence into stories 🎧🎸
+
+📫 Reach out anytime → <b>jayash3325@gmail.com</b>
 </pre>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+---
 
-<p align="left">
-    <a href="https://dev.to/yashbhatti3325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/yashbhatti3325" height="30" width="40" /></a>
-    <a href="https://twitter.com/jayash3325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayash3325" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/mr_whitedevil_33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr_whitedevil_33/" height="30" width="40" /></a>
-    <a href="https://yashbhatti33.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="crazycomputer6892" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Love-informational?style=for-the-badge&logo=github&color=5acde7" />
+  <img src="https://img.shields.io/badge/Music-Vibes-purple?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-DSA%20%26%20Cyber-yellow?style=for-the-badge&logo=codeforces&logoColor=black" />
 </p>
 
-<p align="right" id="gif">
-    <img align="center"alt="Coding" width="100" src="https://gifdb.com/images/high/thank-goodness-i-took-that-coding-course-gkl7f76y3vwkuyh9.gif">
+---
+
+<!-- 🔗 Connect With Me -->
+<h3 align="center">🔗 Connect with me</h3>
+
+<p align="center">
+  <a href="https://dev.to/yashbhatti3325" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+  </a>
+  <a href="https://x.com/jayash3325" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="Twitter/X" height="35" width="35" />
+  </a>
+  <a href="https://www.instagram.com/mr_whitedevil_33/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://yashbhatti33.hashnode.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashbhatti3325&show_icons=true&locale=en&layout=compact" alt="yashbhatti3325" /></p>
+<!-- 🎬 Personality GIF (Techie by Mind, Musician by Heart) -->
+<p align="center">
+  <img alt="Techie by Mind, Musician by Heart" width="320" src="https://media1.tenor.com/m/1VFipeMyyAYAAAAC/cat-guitar.gif">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashbhatti3325&show_icons=true&locale=en" alt="yashbhatti3325" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashbhatti3325&" alt="yashbhatti3325" /></p>
-</body>
+<!-- 🛠 Languages & Tools -->
+<h3 align="center">🛠 Languages, Tools & Platforms I Work With</h3>
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<!-- 📊 GitHub Stats Section -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashbhatti3325&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashbhatti3325&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashbhatti3325&theme=radical" alt="GitHub Streak" />
+</p>
