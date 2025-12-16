@@ -1,7 +1,3 @@
-<!-- 🖼 LinkedIn Banner -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGWFmcrdiccAg/profile-displaybackgroundimage-shrink_350_1400/B56ZgMxzdFG4Ac-/0/1752561040765?e=1758153600&v=beta&t=9R7ktzY28akFy-shb5PfUvu3hIqUHLqKsuUYtx6m4yQ" alt="LinkedIn Banner" width="100%" />
-</p>
 
 <!-- 🎯 Stylish Introduction Section -->
 <h1 align="center">
